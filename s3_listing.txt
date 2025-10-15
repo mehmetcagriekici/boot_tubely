@@ -1,0 +1,6 @@
+2025-10-13 18:21:50          0 
+2025-10-13 18:22:35     445869 boots-image-horizontal.png
+2025-10-13 18:22:35     474887 boots-image-vertical.png
+2025-10-13 18:22:34   49518050 boots-video-horizontal.mp4
+2025-10-13 18:22:39   12603957 boots-video-vertical.mp4
+2025-10-13 18:22:41      76943 is-bootdev-for-you.pdf
